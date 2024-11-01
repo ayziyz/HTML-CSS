@@ -1,2 +1,2 @@
 # html-css
-Assignment submission
+prototype html css project for assignment submission
